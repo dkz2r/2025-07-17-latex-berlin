@@ -70,7 +70,7 @@ This is a pilot workshop, and is not using official carpentries certified materi
 </div>
 
 <div class="alert alert-success" style="width: 75%; margin: 0 auto; text-align: center;">
-<h3>See the <a href="https://www.ibi.hu-berlin.de/de/forschung/infomanagement/events/latex_fuer_akademisches_publizieren">Workshop Announcement Page</a> for registration details.</h3>
+<h3 style="margin-bottom: 20px;">See the <a href="https://www.ibi.hu-berlin.de/de/forschung/infomanagement/events/latex_fuer_akademisches_publizieren">Workshop Announcement Page</a> for registration details.</h3>
 </div>
 
 <h2 id="general">General Information</h2>
