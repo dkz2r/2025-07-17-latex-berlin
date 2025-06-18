@@ -387,7 +387,7 @@ of code below the Schedule `<h2>` header below with
 
 {% if site.pilot %}
 <div class="alert alert-info">
-The lesson taught in this workshop is being piloted and a precise schedule is yet to be established. The workshop will include regular breaks. Please <a href="mailto:info@dkz2r.de">contact the workshop organisers</a> if you would like more information about the planned schedule.Add commentMore actions
+The lesson taught in this workshop is being piloted and a precise schedule is yet to be established. The workshop will include regular breaks. Please <a href="mailto:info@dkz2r.de">contact the workshop organisers</a> if you would like more information about the planned schedule.
 </div>
 {% endif %}
 
