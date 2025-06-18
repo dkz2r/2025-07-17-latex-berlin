@@ -65,7 +65,7 @@ are not using Eventbrite, or leave it in, since it will not be
 displayed if the 'eventbrite' field in the header is not set.
 {% endcomment %}
 
-<div class="alert alert-info">Add commentMore actions
+<div class="alert alert-info">
 This is a pilot workshop, and is not using official carpentries certified materials. However the instructors are carpentries certified, and the content is written in the style of a carpentries workshop. In the future, it is planned to submit this content for approval as an offical workshop with the Carpentries.
 </div>
 
