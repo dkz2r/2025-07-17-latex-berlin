@@ -69,8 +69,9 @@ displayed if the 'eventbrite' field in the header is not set.
 This is a pilot workshop, and is not using official carpentries certified materials. However the instructors are carpentries certified, and the content is written in the style of a carpentries workshop. In the future, it is planned to submit this content for approval as an offical workshop with the Carpentries.
 </div>
 
+<div class="alert alert-success" style="width: 75%; margin: 0 auto; text-align: center;">
 <h3>See the <a href="https://www.ibi.hu-berlin.de/de/forschung/infomanagement/events/latex_fuer_akademisches_publizieren">Workshop Announcement Page</a> for registration details.</h3>
-
+</div>
 
 <h2 id="general">General Information</h2>
 
